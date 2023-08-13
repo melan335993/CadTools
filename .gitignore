@@ -1,0 +1,8 @@
+# dirs
+bin/
+obj/
+.vs/
+
+# exts
+*.bak
+*.user
